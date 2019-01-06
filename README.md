@@ -10,4 +10,5 @@
 
 **Thoughts:** 通过学习[例子](https://github.com/MLEveryday/100-Days-Of-ML-Code/blob/master/Code/Day%201_Data_Preprocessing.md)
 
-**Link to work:** [我的代码](./code/day01_数据预处理.ipynb)
+**Link to work:** [我的代码](./code/day01_数据预处理.ipynb)  
+btw: 我写的有bug，暂时不处理…………
