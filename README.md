@@ -12,3 +12,13 @@
 
 **Link to work:** [我的代码](./code/day01_数据预处理.ipynb)  
 btw: 我写的有bug，暂时不处理…………
+  
+
+### Day 2: 2019年1月7日 (knn的实现)
+
+**Today's Progress**: cs231n中knn的实现
+
+**Thoughts:** 通过学习[例子](https://github.com/sharedeeply/cs231n-camp/blob/master/resource/assignment/assignment1/knn.md)
+
+**Link to work:** [我的代码](./code//code/knn.ipynb)  
+对于不循环直接计算距离的代码还有bug，明天修复
