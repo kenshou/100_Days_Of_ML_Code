@@ -21,4 +21,5 @@ btw: 我写的有bug，暂时不处理…………
 **Thoughts:** 通过学习[例子](https://github.com/sharedeeply/cs231n-camp/blob/master/resource/assignment/assignment1/knn.md)
 
 **Link to work:** [我的代码](./code//code/knn.ipynb)  
-对于不循环直接计算距离的代码还有bug，明天修复
+对于不循环直接计算距离的代码还有bug，明天修复  
+问题解决，(a-b)^2=a^2-2a*b+b^2 ，中间的系数2忘记了
