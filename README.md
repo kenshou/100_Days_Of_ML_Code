@@ -4,6 +4,15 @@
 * 前期主要参考[Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)[中文版](https://github.com/MLEveryday/100-Days-Of-ML-Code)
 * 本年度的目标还是GAN生成美女图片，哈哈  
 
+### Day 4: 2019年1月14日 (svm的vector实现)
+
+**Today's Progress**: cs231n中svm vector的实现
+
+**Thoughts:** 代码实现主要是[参(zhao)考(chao)](https://github.com/lightaime/cs231n/blob/master/assignment1/cs231n/classifiers/softmax.py)：
+
+**other:** ：时间居然过的这么快，已经过去一周了才day4.只能安慰自己，迟到总比不到好，继续加油。
+
+
 ### Day 3: 2019年1月9日 (svm的实现)
 
 **Today's Progress**: cs231n中svm的实现
