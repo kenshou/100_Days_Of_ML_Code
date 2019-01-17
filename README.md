@@ -5,7 +5,7 @@
 * 本年度的目标还是GAN生成美女图片，哈哈  
 
 
-### Day 4: 2019年1月14日 (TwoLayerNet)
+### Day 5: 2019年1月14日 (TwoLayerNet)
 
 **Today's Progress**: cs231n中2层神经网络的实现
 
