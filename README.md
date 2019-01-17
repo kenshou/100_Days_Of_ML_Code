@@ -4,6 +4,16 @@
 * 前期主要参考[Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)[中文版](https://github.com/MLEveryday/100-Days-Of-ML-Code)
 * 本年度的目标还是GAN生成美女图片，哈哈  
 
+
+### Day 4: 2019年1月14日 (TwoLayerNet)
+
+**Today's Progress**: cs231n中2层神经网络的实现
+
+**Thoughts:** 代码实现主要是[参(zhao)考(chao)](https://github.com/lightaime/cs231n/blob/master/assignment1/cs231n/classifiers/neural_net.py)：
+
+**other:** ：又是copy的代码。
+
+
 ### Day 4: 2019年1月14日 (svm的vector实现)
 
 **Today's Progress**: cs231n中svm vector的实现
