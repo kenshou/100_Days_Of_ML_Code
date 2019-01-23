@@ -5,6 +5,17 @@
 * 本年度的目标还是GAN生成美女图片，哈哈  
 
 
+
+### Day 6: 2019年1月23日 (linear_regression)
+
+**Today's Progress**: pytorch中的linear_regression
+
+**Thoughts:** 代码实现主要是[参(zhao)考(chao)](https://github.com/hunkim/PyTorchZeroToAll/blob/master/05_linear_regression.py)：
+
+**other:** ：码农当习惯了，还是码代码舒服点，找了一个韩国人在香港大学用英语讲的[pytorch速成教程](https://www.bilibili.com/video/av15823922/)来学习。
+
+
+
 ### Day 5: 2019年1月14日 (TwoLayerNet)
 
 **Today's Progress**: cs231n中2层神经网络的实现
